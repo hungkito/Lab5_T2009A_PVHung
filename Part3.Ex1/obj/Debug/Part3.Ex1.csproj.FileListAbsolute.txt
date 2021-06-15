@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\bin\Debug\Part3.Ex1.exe
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\bin\Debug\Part3.Ex1.pdb
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\obj\Debug\Part3.Ex1.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\obj\Debug\Part3.Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\obj\Debug\Part3.Ex1.exe
+C:\Users\Admin\RiderProjects\Session05\Part3.Ex1\obj\Debug\Part3.Ex1.pdb

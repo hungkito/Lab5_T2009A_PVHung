@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\bin\Debug\FinallyStmt.exe
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\bin\Debug\FinallyStmt.pdb
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\obj\Debug\FinallyStmt.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\obj\Debug\FinallyStmt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\obj\Debug\FinallyStmt.exe
+C:\Users\Admin\RiderProjects\Session05\FinallyStmt\obj\Debug\FinallyStmt.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\bin\Debug\ExHandling1.exe
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\bin\Debug\ExHandling1.pdb
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\obj\Debug\ExHandling1.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\obj\Debug\ExHandling1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\obj\Debug\ExHandling1.exe
+C:\Users\Admin\RiderProjects\Session05\ExHandling1\obj\Debug\ExHandling1.pdb
